@@ -1,0 +1,33 @@
+# Eclipse files
+.project
+.classpath
+.settings/
+
+# Compiled Java files
+bin/
+*.class
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IntelliJ IDEA (if you ever open the project in IntelliJ)
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
