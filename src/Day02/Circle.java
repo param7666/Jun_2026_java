@@ -13,5 +13,6 @@ public class Circle extends Shape{
 	@Override
 	double area() {
 		return w*h;
+		System.err.println("New Printing Statement");
 	}
 }
